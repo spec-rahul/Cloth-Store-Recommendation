@@ -1,0 +1,26 @@
+Id,Store,Age,Gender,Garment,Branded,Price,Rating
+1,HM,Teenage Adult,Male Female,Casual Funky,Branded,1500,4
+2,Raymond,Adult Senior,Male,Formal Coat Blazer Pant Shirt,Branded,2000,5
+3,First Cry,Children,Male Female,ChildWear Short Dress Frock,Branded,1000,5
+4,Manyawar,Teenage Adult Senior,Male,Kurta EthnicWear,Branded,1200,4
+5,Blackberry,Teenage Adult,Male,Formal Coat Blazer Pant Shirt,Branded,2500,3
+6,Jockey,Teenage Adult,Male,Innerwear Funky,Branded,900,5
+7,Pantaloons,Teenage Adult Senior,Male Female,Casual Formal Pant Top TShirt Jeans ComfortWear,Branded,900,4
+8,Gupta Shop,Adult Senior,Female,Suit Saree Kurti Ethnic,NonBranded,800,3
+9,Biba,Teenage Adult,Female,Suit Saree Kurti Ethnic Top Jeans,Branded,1200,4
+10,Van Hussen,Adult Senior,Male,Formal Coat Blazer Pant Shirt,Branded,2500,4
+11,Nayyar,Children Teenage Adult Senior,Male Female,ChildWear Frock Casual Formal Pant Top TShirt Jeans ComfortWear,Branded,1300,3
+12,Zara,Teenage Adult,Female,Suit Saree Kurti EthnicWear Top Jeans,Branded,1200,5
+13,V Mart,Children Teenage Adult Senior,Male Female,Innerwear ChildWear Frock Casual Formal Pant Top TShirt Jeans ComfortWear Kurti Suit,NonBranded,700,5
+14,V Kart,Children Teenage Adult Senior,Male Female,Innerwear ChildWear Frock Casual Formal Pant Top TShirt Jeans ComfortWear Suit,NonBranded,600,4
+15,Trends,Children Teenage Adult Senior,Male Female,Innerwear ChildWear Frock Casual Formal Pant Top TShirt Jeans ComfortWear,NonBranded,800,5
+16,Bengali Cloth Shop,Adult Senior,Female,Saree Kurti Suit,NonBranded,700,5
+17,A to Z,Children,Male Female,ChildWear Short-Dress Frock,Branded,800,3
+18,Mini Klub,Children,Male Female,ChildWear Short Dress Frock Top Funky,NonBranded,600,4
+19,Roadster,Teenage,Male,Casual TShirt Jeans ComfortWear Shirt Funky,NonBranded,600,5
+20,Bonzy,Teenage,Male Female,Casual TShirt Jeans ComfortWear Shirt Funky Top Kurti,NonBranded,700,4
+21,Abstract,Teenage,Male Female,Casual TShirt Jeans Shirt Pant Funky Top Kurti,NonBranded,500,4
+22,Delhi Wear,Teenage Adult,Male Female,Casual TShirt Jeans Shirt Pant Top Kurti Suit,NonBranded,800,5
+23,Quirk,Children Teenage,Male Female,ChildWear Short Dress Frock Casual Pant Top TShirt Jeans Funky,NonBranded,900,3
+24,Anokhi,Senior,Male Female,Casual TShirt ComfortWear Saree Suit,NonBranded,600,5
+25,Post Fold,Senior,Male Female,Kurta TShirt ComfortWear Saree Suit,NonBranded,800,4
