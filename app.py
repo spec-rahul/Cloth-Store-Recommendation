@@ -3,7 +3,6 @@ import numpy as np
 import pandas as pd
 from pandas import read_csv
 from sklearn.metrics.pairwise import cosine_similarity
-pip install sklearn
 from sklearn.feature_extraction.text import CountVectorizer
 import requests
 
